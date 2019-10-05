@@ -12,6 +12,6 @@
   
 <h3>To Play:</h3>
 <ul>
-<li>Download Engine.exe in release folder</li>
-<li>Run and enjoy!</li>
+  <li>Download Engine.exe in release folder</li>
+  <li>Run and enjoy!</li>
 </ul>
