@@ -1,7 +1,7 @@
 # Atari-Breakout
-###My own Atari Breakout, with a comedic flare
+<h2>My own Atari Breakout, with a comedic flare</h2>
 
-![](breakoutGif.gif)
+<p align="center"><img src = "breakoutGif.gif" /></p>
 
 <h3>Info:</h3>
 <ul>
